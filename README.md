@@ -1,4 +1,4 @@
-# Server Inifinity Scroll
+# Server Inifinity Scroll (Server Actions)
 
 ## References
 
